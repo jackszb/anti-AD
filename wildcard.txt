@@ -57,5 +57,7 @@ vente-unique.*
 vs*.gzcu.u3.ucweb.com
 web-stat.*
 webads.*
+xdyn0*jy.com
 xn--wxtr9fwyxk9c.*
 xn--xhq9mt12cf5v.*
+xscp0*xq.com
